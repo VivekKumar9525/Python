@@ -1,0 +1,14 @@
+a=input("Enter The First Number:")
+b=input("Enter The Second Number:")
+a=int(a)
+b=int(b)
+Sum=a+b
+Sub=a-b
+Multi=a*b
+Div=a/b
+Mod=a%b
+print("Addition of Two Number=",a+b)
+print("Subtraction of Two Number=",a-b)
+print("Multiplication of Two Number=",a*b)
+print("Division of Two Number=",a/b)
+print("Modulus of Two Number=",a%b)
